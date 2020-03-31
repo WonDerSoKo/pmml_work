@@ -1,0 +1,8 @@
+setup.py
+scorecard2pmml/__init__.py
+scorecard2pmml/scorecard_pmml_generator.py
+scorecard2pmml.egg-info/PKG-INFO
+scorecard2pmml.egg-info/SOURCES.txt
+scorecard2pmml.egg-info/dependency_links.txt
+scorecard2pmml.egg-info/requires.txt
+scorecard2pmml.egg-info/top_level.txt

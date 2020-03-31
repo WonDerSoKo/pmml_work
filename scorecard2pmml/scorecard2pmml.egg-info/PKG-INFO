@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: scorecard2pmml
+Version: 1.0.2
+Summary: transform bin & preprocessing table of scorecard model into pmml file
+Home-page: UNKNOWN
+Author: Simon Reon
+Author-email: 18946198329@163.com
+License: GPL-2
+Description: UNKNOWN
+Platform: UNKNOWN
